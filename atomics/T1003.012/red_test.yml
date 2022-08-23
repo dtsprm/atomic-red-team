@@ -70,5 +70,5 @@ atomic_tests:
   executor:
     command: |
       Get-ADReplAccount -All -Server #{logonserver}
-    name: powershell
+    name: unix
     elevation_required: False
