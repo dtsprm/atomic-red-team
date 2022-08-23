@@ -20,7 +20,7 @@ atomic_tests:
       type: String
       default: krbtgt
     mimikatz_path:
-      description: Mimikatz windows executable
+      description: Mikropath
       type: Path
       default: '%tmp%\mimikatz\x64\mimikatz.exe'
   dependency_executor_name: powershell
