@@ -4,7 +4,7 @@ atomic_tests:
 - name: DCSync (Active Directory) Test New Test Nooope Double
   auto_generated_guid: 129efd28-8497-4c87-a1b0-73b9a870ca3e
   description: |
-    test update 22Red22UltraRed
+    test microtest
   supported_platforms:
     - windows
   input_arguments:
@@ -17,7 +17,7 @@ atomic_tests:
       type: String
       default: krbtgt
     mimikatz_path:
-      description: Mikropath
+      description: Mikropath 22
       type: Path
       default: '%tmp%\mimikatz\x64\mimikatz.exe'
   dependency_executor_name: powershell
