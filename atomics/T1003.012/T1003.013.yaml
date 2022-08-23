@@ -60,7 +60,7 @@ atomic_tests:
   dependency_executor_name: powershell
   dependencies:
   - description: |
-      DSInternals must be installed ili fuck-off haha
+      DSInternals must be installed ili fuck-off haha fak of
     prereq_command: |
       $RequiredModule = Get-Module -Name DSInternals -ListAvailable
       if (-not $RequiredModule) {exit 1}
