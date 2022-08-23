@@ -1,4 +1,4 @@
-attack_technique: T1003.006
+attack_technique: T1003.011
 display_name: "OS Credential Dumping: DCSync test2 red-test no iuser"
 atomic_tests:
 - name: DCSync (Active Directory)
