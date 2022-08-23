@@ -1,7 +1,7 @@
 attack_technique: T1003.015
 display_name: "test new redTest"
 atomic_tests:
-- name: DCSync (Active Directory) Test New Test
+- name: DCSync (Active Directory) Test New Test Nooope
   auto_generated_guid: 129efd28-8497-4c87-a1b0-73b9a870ca3e
   description: |
     Active Directory attack allowing retrieval of account information without accessing memory or retrieving the NTDS database.
