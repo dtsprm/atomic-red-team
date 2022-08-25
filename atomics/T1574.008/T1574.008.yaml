@@ -4,7 +4,7 @@ atomic_tests:
 - name: powerShell Persistence via hijacking default modules - Get-Variable.exe
   auto_generated_guid: 1561de08-0b4b-498e-8261-e922f3494aae
   description: |
-    super test
+    super test ultra updating
   supported_platforms:
   - windows
   executor:
